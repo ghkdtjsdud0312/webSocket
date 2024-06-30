@@ -1,0 +1,13 @@
+
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ìƒÅÍÿÿÿÿÿ8ùîàÌ†2
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ùîàÌ†2
+W
+java:S1161)":Add the "@Override" annotation above this method signature(“–ış8şîàÌ†2
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8şîàÌ†2
+L
+java:S1068 "*Remove this unused "socket" private field.(Å’¬Úşÿÿÿÿ8şîàÌ†2
+H
+java:S1068!"+Remove this unused "outList" private field.(ışËò8şîàÌ†2
